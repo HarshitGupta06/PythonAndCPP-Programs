@@ -2,7 +2,7 @@ from string import ascii_lowercase
 a2z=list(ascii_lowercase)
 lst = []
 T=int(input())
-while (T>0):
+while (T):
     s=list(input())
     n=len(s)
     s1=list(input())
