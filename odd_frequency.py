@@ -16,8 +16,7 @@ int xorOdd(int arr[], int n)
 		m[arr[i]]++;
 
 	// To store the XOR of the elements
-	// appearing odd number of
-	// times in the array
+	
 	int xorArr = 0;
 
 	// Traverse the map using an iterator
