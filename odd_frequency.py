@@ -2,8 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Function to return the xor of
-// elements having odd frequency
+
 int xorOdd(int arr[], int n)
 {
 	// To store the frequency
